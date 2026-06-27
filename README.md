@@ -1,1 +1,4 @@
-A Python-based machine learning project using Scikit-Learn to predict student performance based on behavior. Built using Google Colab.
+# Student Study Behavior Analyzer
+A Python-based machine learning workflow to evaluate and predict student academic performance based on behavioral features. 
+* **Tech Stack:** Python, Scikit-Learn, Google Colab
+* **Core Concepts:** Decision Trees, KNN Classification, Model Evaluation (Confusion Matrix)
